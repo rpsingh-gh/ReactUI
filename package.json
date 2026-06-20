@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "proxy": "https://eshopping-webapi.azurewebsites.net",
+  "proxy": "happymindmeal-eservice-g4dxbtbqhzane2g7.canadacentral-01.azurewebsites.net",
   "homepage": "https://archiee07.github.io/demo/#",
   "scripts": {
     "predeploy": "npm run build",
